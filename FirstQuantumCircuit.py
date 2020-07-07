@@ -42,3 +42,6 @@ print("\nTotal count for 00 and 11 are:",counts)
 
 # Draw the circuit
 circuit.draw()
+
+# Plot Histogram
+plot_histogram(counts)
